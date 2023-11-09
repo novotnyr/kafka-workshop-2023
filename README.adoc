@@ -1,0 +1,15 @@
+= Kafka a Spring Boot: ukážkový projekt pre workhop
+
+Ukážka:
+
+- producent: Spring Boot a podpora pre Kafku
+- konzument: Spring Boot a podpora pre Kafku
+- infra: Kafka bežiaca cez Docker Compose v režime KRaft
+
+Technológie:
+
+- Kotlin 1.8
+- Kafka 3
+- Java 17
+- Spring Boot 3.1
+
